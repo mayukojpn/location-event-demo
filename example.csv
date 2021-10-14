@@ -1,3 +1,907 @@
-title,description,lat,lng,marker-size,marker-color,stroke,stroke-width
-HafH Goto The Pier,エメラルドグリーンの海と雄大な自然に囲まれた五島列島にあるコリビング施設,32.691786,128.844422,medium,#FF0000,#FFFFFF,2
-五島ゲストハウス雨通宿,人気の離島「五島」で、お布団屋さんが営むゲストハウス。まるで実家に帰ったかのようなあたたかさ。夜は、ふとんバーで地元民とふれあいながら一杯いかが？,32.69174,128.832128,medium,#FF0000,#FFFFFF,2
+title,description,lat,long
+HafH Nagasaki SAI,https://www.hafh.com/properties/1,32.745957,129.879344
+HafH Nagasaki Garden,https://www.hafh.com/properties/2,32.75807,129.882426
+BACCHUS KOFU GUESTHOUSE,https://www.hafh.com/properties/3,35.658858,138.566501
+鳩麦荘,https://www.hafh.com/properties/4,33.444389,129.970444
+佐賀インターナショナルゲストハウスHAGAKURE,https://www.hafh.com/properties/6,33.264273,130.293884
+uzuhouse,https://www.hafh.com/properties/7,33.959018,130.949584
+長崎かゞみや,https://www.hafh.com/properties/8,32.751389,129.896964
+ROUTE,https://www.hafh.com/properties/9,32.75404,129.872262
+Hostel Casa Noda,https://www.hafh.com/properties/12,32.748725,129.872115
+Casa Blanca Guesthouse,https://www.hafh.com/properties/13,32.742194,129.876737
+広島ゲストハウス縁,https://www.hafh.com/properties/17,34.408018,132.450768
+京都ホステル禅,https://www.hafh.com/properties/18,35.006469,135.764095
+UNTAPPED HOSTEL,https://www.hafh.com/properties/19,43.081747,141.346063
+いるかホステル,https://www.hafh.com/properties/20,36.705584,137.216095
+NAGASAKI HOUSE ぶらぶら,https://www.hafh.com/properties/21,32.701809,129.914341
+Hostel Marika,https://www.hafh.com/properties/22,31.625052,131.354596
+シナモンゲストハウス道後,https://www.hafh.com/properties/23,33.851197,132.787731
+Sana inn Town,https://www.hafh.com/properties/24,34.236141,135.17717
+BOOK INN,https://www.hafh.com/properties/25,37.912475,139.058675
+地域まるっと体感宿 玉村屋,https://www.hafh.com/properties/27,35.771214,136.198122
+kame house,https://www.hafh.com/properties/28,35.494402,135.577917
+ゲストハウス岐てん,https://www.hafh.com/properties/30,35.429605,136.75773
+おもてなしラボ,https://www.hafh.com/properties/32,35.719527,140.233016
+ゲストハウス ひととき,https://www.hafh.com/properties/33,37.627157,139.62933
+仙台ゲストハウス梅鉢,https://www.hafh.com/properties/34,38.270145,140.915635
+hostel&gallery Gisgood,https://www.hafh.com/properties/36,34.680737,135.820486
+ADLIV,https://www.hafh.com/properties/40,34.063445,134.159532
+たけた駅前ホステルcue,https://www.hafh.com/properties/41,32.969994,131.391295
+4Plus Hostel,https://www.hafh.com/properties/42,25.049528,121.524457
+TONY HOUSE HOSTEL,https://www.hafh.com/properties/44,21.067134,105.811235
+Chamomile House,https://www.hafh.com/properties/45,21.026476,105.803576
+Finch House,https://www.hafh.com/properties/47,-1.287987,36.769622
+Sakusak House,https://www.hafh.com/properties/48,37.080417,25.218044
+HafH Fukuoka THE LIFE,https://www.hafh.com/properties/49,33.5912,130.411137
+04village hostel NAMBA,https://www.hafh.com/properties/52,34.655283,135.508491
+hostel DEN,https://www.hafh.com/properties/53,35.69108,139.776679
+HOSTEL NINIROOM,https://www.hafh.com/properties/54,35.018024,135.775187
+AIEN COFFEE&HOSTEL,https://www.hafh.com/properties/55,26.322613,127.750722
+アサリハウス,https://www.hafh.com/properties/57,35.034554,132.278361
+エンブレムホステル西新井,https://www.hafh.com/properties/58,35.7782,139.791227
+泊まれるコワーキングスペース 五番地 / GOBANCHI,https://www.hafh.com/properties/60,35.262578,138.454564
+CALENDAR HOTEL（カレンダーホテル）,https://www.hafh.com/properties/61,35.003174,135.864331
+安比ロッキーイン,https://www.hafh.com/properties/62,40.004622,140.97861
+雪浦ゲストハウス森田屋,https://www.hafh.com/properties/63,32.921971,129.663351
+島宿御縁,https://www.hafh.com/properties/64,33.186004,129.055844
+Hostel&Bar CAMOSIBA,https://www.hafh.com/properties/65,39.221844,140.524185
+LODGE TANDEM,https://www.hafh.com/properties/66,40.02024,140.973673
+the CUE - hoso back yard house -,https://www.hafh.com/properties/67,33.732242,135.382441
+Why Kumano Hostel & Cafe Bar,https://www.hafh.com/properties/68,33.628237,135.942071
+ゲストリビングMu南紀白浜,https://www.hafh.com/properties/69,33.678281,135.344246
+古民家の宿　宰嘉庵（さいかあん）,https://www.hafh.com/properties/70,35.450735,135.328166
+小高パイオニアヴィレッジ,https://www.hafh.com/properties/71,37.563101,140.991687
+ゲストハウスLAMP野尻湖,https://www.hafh.com/properties/73,36.825617,138.204696
+ゲストハウスLAMP豊後大野,https://www.hafh.com/properties/74,32.822764,131.388095
+ゲストハウスLAMP壱岐,https://www.hafh.com/properties/75,33.851059,129.692364
+The Brownstone Hostel and Space,https://www.hafh.com/properties/77,4.60069,101.08569
+Paper Plane Hostel クアラルンプール,https://www.hafh.com/properties/78,3.143249,101.704964
+"trica Hostel, Cafe & Bar",https://www.hafh.com/properties/79,13.710735,100.60292
+Hostel KIKO,https://www.hafh.com/properties/80,38.24993,140.882041
+ホステル イルファーロ久留米,https://www.hafh.com/properties/81,33.313104,130.520383
+食べて泊まれる寄り合い場　てま里,https://www.hafh.com/properties/82,35.370982,133.360146
+Dot Hostel&Bar,https://www.hafh.com/properties/83,35.523627,138.743792
+Fukuoka Guesthouse HIVE,https://www.hafh.com/properties/84,33.597775,130.411684
+ushiyado,https://www.hafh.com/properties/85,43.549647,144.975433
+ホステルPAQ徳島,https://www.hafh.com/properties/86,34.070635,134.551684
+Kawan-kawan Guest House,https://www.hafh.com/properties/87,2.196213,102.248332
+1000 Miles Hotel,https://www.hafh.com/properties/88,3.14911,101.697989
+LEGIAN VILLAGE HOTEL,https://www.hafh.com/properties/89,-8.705932,115.168965
+Casa de Kamomosi,https://www.hafh.com/properties/90,14.689274,-91.269974
+お宿桜子,https://www.hafh.com/properties/92,-12.020592,-77.004831
+神戸ゲストハウス萬家,https://www.hafh.com/properties/94,34.707981,135.216746
+EN HOSTEL&BAR,https://www.hafh.com/properties/95,33.56303,133.547554
+ゲストハウスmeinn,https://www.hafh.com/properties/96,39.387203,141.113329
+Blue Hour Kanazawa,https://www.hafh.com/properties/97,36.576916,136.651338
+ホステルトマル,https://www.hafh.com/properties/98,31.592499,130.558526
+泊まれる純喫茶　ヒトヤ堂,https://www.hafh.com/properties/99,34.971803,138.379429
+Tagore Harbor Hostel,https://www.hafh.com/properties/100,34.972848,138.777148
+ROPE WALK GUEST HOUSE,https://www.hafh.com/properties/101,5.416673,100.333712
+Play Coshtel,https://www.hafh.com/properties/102,3.042101,101.451026
+Story Share Guest House Baguio Basic,https://www.hafh.com/properties/103,16.388721,120.585097
+Story Share Guest House Baguio EOP,https://www.hafh.com/properties/104,16.388721,120.585097
+Story Share Guest House Basic,https://www.hafh.com/properties/105,10.339371,123.905112
+Story Share Guest House EOP,https://www.hafh.com/properties/106,10.319745,123.886005
+15th Street @Downtown Yangon,https://www.hafh.com/properties/108,16.776946,96.146639
+ArcadeResortOkinawa HOTEL&CAFÉ,https://www.hafh.com/properties/110,26.336288,127.799987
+haku hostel café & bar,https://www.hafh.com/properties/111,42.552396,141.358127
+ヒラドゲストハウスコトノハ,https://www.hafh.com/properties/112,33.372031,129.554879
+to be HIRADO,https://www.hafh.com/properties/113,33.372293,129.552821
+SERENDIP HOTEL GOTO,https://www.hafh.com/properties/114,32.691719,128.846012
+屋久島サウスビレッジ,https://www.hafh.com/properties/115,30.235842,130.512782
+天空の茶屋敷,https://www.hafh.com/properties/116,33.215201,130.757526
+Almas ゲストハウス,https://www.hafh.com/properties/117,32.744039,129.874123
+ゲストハウス TOHO Learning House,https://www.hafh.com/properties/118,35.175472,136.995875
+Ten to Ten Stone Town Zanzibar,https://www.hafh.com/properties/120,-6.162099,39.188099
+Ten to Ten Puerto Vallarta,https://www.hafh.com/properties/121,20.609604,-105.234538
+島宿浜の家,https://www.hafh.com/properties/122,34.207542,139.133859
+"ちゃぶだい Guesthouse,Cafe&Bar",https://www.hafh.com/properties/123,35.920778,139.48641
+Yamanami ／ やまなみ,https://www.hafh.com/properties/124,36.236434,137.188093
+cup of tea,https://www.hafh.com/properties/125,36.138108,137.257032
+ゲストハウス akicafe inn,https://www.hafh.com/properties/129,34.39518,132.476234
+YUMORI ONSEN HOSTEL,https://www.hafh.com/properties/130,37.681673,140.323521
+voido,https://www.hafh.com/properties/131,35.166777,139.823124
+グランピック ゲストハウス,https://www.hafh.com/properties/133,38.226754,140.425936
+Yote 28,https://www.hafh.com/properties/134,2.189305,102.248461
+Kakashi House,https://www.hafh.com/properties/135,41.741608,44.789108
+Paper Plane Hostel,https://www.hafh.com/properties/136,22.649345,120.303083
+コナステイ伊豆長岡,https://www.hafh.com/properties/137,35.035179,138.937529
+五島ゲストハウス雨通宿,https://www.hafh.com/properties/138,32.694485,128.837437
+温泉ゲストハウス 湯kori,https://www.hafh.com/properties/140,37.481447,140.271134
+SOY,https://www.hafh.com/properties/142,36.16547,137.233043
+ゲストハウス　プルーフポイント,https://www.hafh.com/properties/143,42.98326,144.382874
+あずましい湖を楽しむうつわ「yamaju」,https://www.hafh.com/properties/146,40.428417,140.894128
+エンブレムフロー箱根,https://www.hafh.com/properties/147,35.251066,139.047741
+釧路・阿寒ゲストハウスコケコッコー,https://www.hafh.com/properties/148,43.114517,144.127416
+Thinking B&B,https://www.hafh.com/properties/156,22.996612,120.199518
+"Backpackers Inn,KS",https://www.hafh.com/properties/158,22.622373,120.30153
+Stray Birds Hostel,https://www.hafh.com/properties/159,24.150641,120.660589
+スカイラー・バイ・メリディアン,https://www.hafh.com/properties/160,11.535591,104.927796
+Getcha Hostel and Bistro,https://www.hafh.com/properties/161,24.154234,120.687066
+Story+Hotel,https://www.hafh.com/properties/162,24.184339,120.645428
+Chase Walker Hotel,https://www.hafh.com/properties/163,24.182174,120.644854
+Meistay Hotel,https://www.hafh.com/properties/164,25.048003,121.549335
+Flip Flop Hostel - Garden,https://www.hafh.com/properties/165,25.05054,121.518145
+With Inn Hostel,https://www.hafh.com/properties/166,22.624195,120.30301
+Boxpackers Hostel Pratunam,https://www.hafh.com/properties/167,13.75213,100.536875
+Boxpackers Hostel Phranakorn,https://www.hafh.com/properties/168,13.754772,100.498555
+Pathong Residence,https://www.hafh.com/properties/169,9.560183,100.06354
+Villa Dhitaree,https://www.hafh.com/properties/170,9.5545,100.065472
+Double Tree House,https://www.hafh.com/properties/171,18.793735,99.006048
+THE STAY OSAKA 心斎橋,https://www.hafh.com/properties/173,34.673314,135.507762
+THE STAY SAPPORO,https://www.hafh.com/properties/174,43.053993,141.345472
+HOTEL NUPKA,https://www.hafh.com/properties/175,42.920379,143.202677
+HOSTEL Co-EDO,https://www.hafh.com/properties/176,35.891871,140.497443
+コバコWork&Camp,https://www.hafh.com/properties/177,35.004555,134.356969
+obi Hostel,https://www.hafh.com/properties/178,35.692002,139.781937
+のどけや本館,https://www.hafh.com/properties/182,34.06869,134.145731
+Kinco. hostel + cafe,https://www.hafh.com/properties/183,34.335382,134.056375
+SEGARA ANAK,https://www.hafh.com/properties/184,-8.894752,116.28317
+biliq coliving,https://www.hafh.com/properties/186,-8.691934,115.178711
+"ETHES Coworking, Coliving, Lounge",https://www.hafh.com/properties/187,-7.725605,110.384594
+Ahiruyah,https://www.hafh.com/properties/188,22.633074,120.303418
+Backpacker Dog,https://www.hafh.com/properties/189,22.75366,121.15113
+Rumah Highlands Hotel,https://www.hafh.com/properties/190,10.342326,123.895706
+IWP WAKEPARK POOL VILLA,https://www.hafh.com/properties/191,8.113968,98.340612
+hostel anettai,https://www.hafh.com/properties/192,10.809908,106.666735
+Play Design Hotel,https://www.hafh.com/properties/193,25.054903,121.516402
+ジェイホッパーズ琵琶湖ゲストハウス,https://www.hafh.com/properties/197,35.226604,135.957152
+SUNNY DAY HOSTEL,https://www.hafh.com/properties/198,34.347453,134.052401
+The Moon Hostel Huahin,https://www.hafh.com/properties/199,12.570786,99.957083
+Star Hostel Taichung Parklane,https://www.hafh.com/properties/200,24.151235,120.663848
+ハワイ ホノルル ワイキキビーチ,https://www.hafh.com/properties/201,21.272401,-157.821571
+Kinnon deluxe hostel coworking cafe,https://www.hafh.com/properties/202,13.725801,100.526793
+U I Home,https://www.hafh.com/properties/203,18.805182,98.973533
+Cloud 9 Hotel Hua Hin,https://www.hafh.com/properties/204,12.572312,99.957187
+UNPLAN Kagurazaka,https://www.hafh.com/properties/206,35.705051,139.731444
+chAho Hostel Nirasaki / Outdoor Base,https://www.hafh.com/properties/207,35.709472,138.450036
+シェアクリエイティブ＆ベッド　アドノアン,https://www.hafh.com/properties/208,33.252075,129.953479
+Innature Hostel,https://www.hafh.com/properties/210,10.767217,106.700236
+UnionSPACE,https://www.hafh.com/properties/211,13.724371,100.583474
+Uma Senja,https://www.hafh.com/properties/213,-8.657035,115.172926
+Yilan Inspiration Hostel,https://www.hafh.com/properties/214,24.671913,121.780937
+Slowdown hostel,https://www.hafh.com/properties/215,23.480912,120.445131
+The Lentitude,https://www.hafh.com/properties/216,23.476935,120.444977
+Pilly Homestay,https://www.hafh.com/properties/217,5.339641,115.197597
+Kafu Resort & Spa,https://www.hafh.com/properties/218,13.362132,103.861969
+Travellerhome Angkor,https://www.hafh.com/properties/219,13.353848,103.851676
+First Hostel Taipei,https://www.hafh.com/properties/220,25.022968,121.529931
+PhuQuoc Ecolodge,https://www.hafh.com/properties/222,10.293423,103.911554
+Baan Jai Dee,https://www.hafh.com/properties/223,9.721729,99.978435
+La Casa Tropicana by Cospace,https://www.hafh.com/properties/224,9.701942,100.016007
+Toojou Kota Kinabalu,https://www.hafh.com/properties/225,5.977837,116.076889
+HafH Goto The Pier,https://www.hafh.com/properties/227,32.691658,128.846045
+MPホテルズ長崎水辺の森,https://www.hafh.com/properties/228,32.737072,129.87211
+Uminos Spa & Resort(ウミノス),https://www.hafh.com/properties/230,34.224334,132.388073
+KAMP BackpackersInn&Lounge,https://www.hafh.com/properties/231,34.66882,133.914025
+古民家ゲストハウス汐見の家,https://www.hafh.com/properties/232,34.253987,133.189337
+8hotel湘南藤沢,https://www.hafh.com/properties/233,35.337967,139.485664
+node hotel,https://www.hafh.com/properties/235,35.004778,135.75498
+”泊まれるシアター” TheaterZzz,https://www.hafh.com/properties/237,35.699748,139.798146
+Norden Ruder Hostel Taichung,https://www.hafh.com/properties/241,24.137451,120.684257
+Norden Ruder Hostel Taitung,https://www.hafh.com/properties/242,22.753795,121.15513
+Spangle Inn,https://www.hafh.com/properties/243,25.152568,121.770411
+Color Coral Hostel,https://www.hafh.com/properties/244,23.557108,119.579463
+Hygge B&B,https://www.hafh.com/properties/245,23.597188,119.670937
+Waterfront Hotel,https://www.hafh.com/properties/246,25.050982,121.575054
+AVA Guesthouse with TAOHUB,https://www.hafh.com/properties/247,10.082382,99.824571
+Bale'ku Guesthouse,https://www.hafh.com/properties/248,-7.674913,108.633664
+Star Hostel Taipei Main Station,https://www.hafh.com/properties/249,25.050062,121.515563
+古民家ゲストハウス＆バー内子晴れ,https://www.hafh.com/properties/250,33.554332,132.6534
+Fukuoka Guesthouse SHIP,https://www.hafh.com/properties/251,33.603218,130.406388
+宮島ゲストハウス三國屋,https://www.hafh.com/properties/252,34.294708,132.321401
+イワシビルホステル,https://www.hafh.com/properties/253,32.014032,130.197267
+ゲストハウス ふたつや,https://www.hafh.com/properties/254,31.255191,130.445802
+FON-SU bed&breakfast,https://www.hafh.com/properties/255,34.678034,135.488327
+UNPLAN Shinjuku,https://www.hafh.com/properties/256,35.693105,139.710885
+WeBase 博多,https://www.hafh.com/properties/257,33.595715,130.408276
+WeBase 広島,https://www.hafh.com/properties/258,34.390149,132.459272
+WeBase 高松,https://www.hafh.com/properties/259,34.341854,134.05078
+Guest House Diphylleia Grayi,https://www.hafh.com/properties/260,34.326066,132.31805
+五島バックパッカーズ ぽれ,https://www.hafh.com/properties/262,32.980169,129.101121
+旭川公園ゲストハウス,https://www.hafh.com/properties/263,43.819764,142.444262
+ゲストハウス品川宿,https://www.hafh.com/properties/264,35.62177,139.740385
+DENIM HOSTEL float(デニムホステルフロート),https://www.hafh.com/properties/265,34.461635,133.875131
+CUORE倉敷,https://www.hafh.com/properties/266,34.594562,133.770572
+Sun and Co. Coliving | Coworking | Community,https://www.hafh.com/properties/267,38.788679,0.161069
+Flip Flop Hostel - Jiufen,https://www.hafh.com/properties/268,25.107034,121.841505
+Adagio Reindeer San Yi,https://www.hafh.com/properties/269,24.378812,120.775813
+Meander 1948,https://www.hafh.com/properties/270,25.050438,121.515062
+7days 4seasons Cafe B&B,https://www.hafh.com/properties/271,23.677688,120.793813
+Deer Traveler Hostel,https://www.hafh.com/properties/272,23.865813,120.912312
+Seoul Nooks,https://www.hafh.com/properties/273,37.55167,126.978595
+88（はちはち）ハウス広島,https://www.hafh.com/properties/274,34.428184,132.52029
+おとまち 甘藍,https://www.hafh.com/properties/275,34.231872,132.621459
+We Home ホテル+ホステル＆キッチン,https://www.hafh.com/properties/276,35.714412,139.940156
+鞆の浦　燧冶,https://www.hafh.com/properties/277,34.388939,133.381477
+ジェイホッパーズ熊野湯峰温泉ゲストハウス,https://www.hafh.com/properties/278,33.829714,135.758215
+36Hostel(サルホステル),https://www.hafh.com/properties/279,34.398113,132.448304
+遊山ゲストハウス,https://www.hafh.com/properties/280,34.684716,135.823534
+ガロホステル神戸,https://www.hafh.com/properties/281,34.707304,135.198378
+i+Land nagasaki,https://www.hafh.com/properties/282,32.706094,129.77847
+ホテル丸福京都東山,https://www.hafh.com/properties/284,35.011102,135.776202
+Guest House チャンネルカン,https://www.hafh.com/properties/285,34.080014,134.349378
+咲くカフェ,https://www.hafh.com/properties/286,36.77436,140.351486
+和モダンな温泉館　湯布院あかりの宿,https://www.hafh.com/properties/287,33.261779,131.356935
+和モダンな温泉旅館　湯布院旅の蔵,https://www.hafh.com/properties/288,33.2632,131.365322
+和モダンな温泉旅館　湯布院らんぷの宿,https://www.hafh.com/properties/289,33.265767,131.353633
+Tune Hakodate,https://www.hafh.com/properties/290,41.781018,140.784288
+NK hostel,https://www.hafh.com/properties/291,25.051558,121.569681
+Residence8,https://www.hafh.com/properties/292,23.873062,120.913938
+Deervalley Lodge,https://www.hafh.com/properties/293,23.745188,120.755562
+Anja's house,https://www.hafh.com/properties/294,24.841938,121.012563
+Center.Center Hostel,https://www.hafh.com/properties/295,23.968202,120.962046
+Southgate Hostel,https://www.hafh.com/properties/296,24.799167,120.965899
+Spend Time,https://www.hafh.com/properties/297,24.386813,120.860313
+Petit Espace,https://www.hafh.com/properties/298,17.967695,102.606478
+Mori Hostel,https://www.hafh.com/properties/299,1.315956,103.857575
+Grid+Core Hostel,https://www.hafh.com/properties/300,3.077846,101.587822
+Cairns Beaches Flash Packers,https://www.hafh.com/properties/301,-16.749708,145.669116
+ホテル グラフィー 根津,https://www.hafh.com/properties/302,35.717171,139.768573
+ZABUTTON HOSTEL & COFFEE SHOP,https://www.hafh.com/properties/303,35.655454,139.742121
+CHILLULU COFFEE & HOSTEL,https://www.hafh.com/properties/304,35.442765,139.647262
+葉山 うみのホテル,https://www.hafh.com/properties/305,35.280502,139.570772
+箱根つたや旅館,https://www.hafh.com/properties/306,35.244009,139.05692
+江ノ島ゲストハウス134,https://www.hafh.com/properties/307,35.309155,139.482405
+kagelow Mt.Fuji Hostel Kawaguchiko,https://www.hafh.com/properties/308,35.495504,138.765248
+Okazaki Micro Hotel ANGLE,https://www.hafh.com/properties/309,34.958572,137.166545
+FUJITAYABnB,https://www.hafh.com/properties/310,34.989777,135.734113
+SIMA inn,https://www.hafh.com/properties/311,34.410648,133.205601
+SINGAI CABIN,https://www.hafh.com/properties/312,34.4118,133.20546
+いいかねPalette,https://www.hafh.com/properties/313,33.598829,130.793513
+阿蘇の森,https://www.hafh.com/properties/314,32.93557,131.065341
+くつろぎの温泉宿 山田別荘,https://www.hafh.com/properties/315,33.281865,131.503642
+HOTEL KARAE,https://www.hafh.com/properties/316,33.447284,129.969125
+UmiOto,https://www.hafh.com/properties/317,24.83445,125.287511
+eda co-living,https://www.hafh.com/properties/321,24.083225,120.55476
+Bobooks,https://www.hafh.com/properties/322,23.478634,120.444741
+KINBA Guest House,https://www.hafh.com/properties/324,24.479291,118.306817
+Alohas Hostel,https://www.hafh.com/properties/325,22.304761,114.171473
+Hotel Chasky Wasy Coliving,https://www.hafh.com/properties/326,-2.892126,-79.01745
+Hotel Chasky,https://www.hafh.com/properties/327,-1.151438,-78.585813
+New York City - Queens : Woodside,https://www.hafh.com/properties/328,40.747047,-73.898813
+Casa Titik,https://www.hafh.com/properties/329,4.084513,103.385282
+Co.Living Hostel,https://www.hafh.com/properties/330,4.909607,114.923761
+ゲストハウス岐阜羽島心音,https://www.hafh.com/properties/332,35.315691,136.68807
+Len Kyoto Kawaramachi,https://www.hafh.com/properties/334,34.998732,135.767371
+アクアイグニス 片岡温泉,https://www.hafh.com/properties/335,35.013406,136.482571
+SHIRAHAMA KEY TERRACE SEAMORE RESIDENCE,https://www.hafh.com/properties/336,33.674908,135.337423
+篠山 城下町 ゲストハウス KOMEYA,https://www.hafh.com/properties/337,35.07538,135.223275
+Hostel Act,https://www.hafh.com/properties/338,35.543402,134.818825
+ホテルアベストグランデ岡山,https://www.hafh.com/properties/339,34.665962,133.921403
+ゲストハウス トコトコ,https://www.hafh.com/properties/340,35.432227,133.824589
+BED N CHILL 七宝屋,https://www.hafh.com/properties/341,34.207949,133.718571
+EkimaehouseSamaru,https://www.hafh.com/properties/342,33.194824,132.9748
+柳川ゲストハウスほりわり,https://www.hafh.com/properties/343,33.158133,130.396699
+シークルーズハウスナビオ,https://www.hafh.com/properties/344,32.517926,130.425375
+三角エコビレッジSAIHATE,https://www.hafh.com/properties/345,32.637402,130.532718
+ゲストハウス五島時光（ゴトウジコウ）,https://www.hafh.com/properties/346,32.697721,128.844483
+ヴィラコースト西町-ゲストハウスイン沖縄,https://www.hafh.com/properties/348,26.216407,127.671474
+ヴィラ泡瀬111-ゲストハウスイン沖縄,https://www.hafh.com/properties/350,26.322125,127.839201
+ホテルストレータ 那覇,https://www.hafh.com/properties/351,26.219018,127.6844
+ホテルアンテルーム 那覇,https://www.hafh.com/properties/352,26.225645,127.678899
+ホテル ローカス,https://www.hafh.com/properties/353,24.804111,125.27312
+World Inn,https://www.hafh.com/properties/354,23.990563,121.602063
+OINN Hotel & Hostel,https://www.hafh.com/properties/355,23.003813,120.192813
+Sun Moon Inn,https://www.hafh.com/properties/356,23.867585,120.909346
+Le Quadri Hotel,https://www.hafh.com/properties/357,3.077635,101.732372
+UNWIND HOTEL ＆ BAR 小樽,https://www.hafh.com/properties/358,43.197523,141.000896
+UNWIND HOTEL ＆ BAR 札幌,https://www.hafh.com/properties/359,43.049815,141.3524
+Nui. HOSTEL & BAR LOUNGE,https://www.hafh.com/properties/360,35.703875,139.793371
+ザ・ミレニアルズ渋谷,https://www.hafh.com/properties/361,35.662215,139.699634
+CITAN,https://www.hafh.com/properties/362,35.691588,139.781363
+THE LIVELY 東京麻布十番,https://www.hafh.com/properties/363,35.656933,139.733142
+スラッシュ川崎,https://www.hafh.com/properties/364,35.528953,139.701289
+ストリングスホテル名古屋,https://www.hafh.com/properties/365,35.16413,136.884256
+Hotel Noum OSAKA,https://www.hafh.com/properties/366,34.6923,135.514602
+hotel it. osaka shinmachi,https://www.hafh.com/properties/367,34.677292,135.48621
+THE LIVELY 大阪本町,https://www.hafh.com/properties/369,34.68283,135.507683
+ザ・ミレニアルズ京都,https://www.hafh.com/properties/370,35.007523,135.768896
+HOTEL CANATA KYOTO,https://www.hafh.com/properties/372,35.012613,135.752147
+アルティエホテル紀伊田辺,https://www.hafh.com/properties/373,33.731035,135.381363
+湯るり,https://www.hafh.com/properties/374,35.096283,132.348711
+TRIP BASE COCONEEL,https://www.hafh.com/properties/375,34.218126,131.303778
+セブンデイズホテルプラス,https://www.hafh.com/properties/376,33.561942,133.54505
+レフ熊本byベッセルホテルズ,https://www.hafh.com/properties/377,32.798906,130.70554
+HOTEL THE GATE KUMAMOTO,https://www.hafh.com/properties/378,32.790403,130.691029
+ザ・ニュー ホテル 熊本,https://www.hafh.com/properties/379,32.790865,130.690668
+HOTEL WIN,https://www.hafh.com/properties/380,33.262187,129.872398
+ESTINATE HOTEL 沖縄那覇,https://www.hafh.com/properties/381,26.219957,127.681869
+The Barat Perhentian Beach Resort,https://www.hafh.com/properties/382,5.900482,102.739235
+Lukang Yiann B&B,https://www.hafh.com/properties/383,24.060688,120.436688
+HOK HOUSE,https://www.hafh.com/properties/384,22.630562,120.300438
+Tong Siam,https://www.hafh.com/properties/385,19.908562,99.829437
+Hostel Tomato,https://www.hafh.com/properties/386,24.827313,121.774937
+Rucksack Inn @ Lavender,https://www.hafh.com/properties/387,1.314416,103.860444
+Cube House KL - Coliving,https://www.hafh.com/properties/388,3.148243,101.711295
+D'well Hostel,https://www.hafh.com/properties/389,22.614563,120.307063
+The Barat Tioman Beach Resort,https://www.hafh.com/properties/390,2.783075,104.204312
+Smart Angkor Boutique,https://www.hafh.com/properties/391,13.354188,103.84979
+SLEEEP.hkg.gough,https://www.hafh.com/properties/392,22.284573,114.151583
+WAKUWAKUHOUSE MATBA,https://www.hafh.com/properties/393,33.872277,133.830066
+SLEEEP Shrine,https://www.hafh.com/properties/395,22.284573,114.151583
+SLEEEP.hkg.cwb,https://www.hafh.com/properties/396,22.278956,114.183368
+KULABO 大正館,https://www.hafh.com/properties/397,34.369434,131.182695
+HYM HOSTEL,https://www.hafh.com/properties/398,34.490615,133.949509
+北天の丘あばしり湖鶴雅リゾート,https://www.hafh.com/properties/399,43.968133,144.210954
+サロマ湖 鶴雅リゾート,https://www.hafh.com/properties/400,44.124821,143.970898
+あかん遊久の里鶴雅,https://www.hafh.com/properties/401,43.434662,144.090898
+あかん湖鶴雅ウイングス,https://www.hafh.com/properties/402,43.434222,144.091574
+屈斜路原野ユースゲストハウス,https://www.hafh.com/properties/403,43.548183,144.348111
+TAKIGAHARA CRAFT AND STAY,https://www.hafh.com/properties/404,36.289702,136.424729
+SHARIN Kanazawa Traveler's Inn,https://www.hafh.com/properties/405,36.576385,136.654897
+Travelers' house ROOTs,https://www.hafh.com/properties/406,36.744565,137.012375
+小石屋旅館,https://www.hafh.com/properties/407,36.73508,138.430278
+ゲストハウスtoco.,https://www.hafh.com/properties/408,35.722037,139.783928
+guest house MARUYA,https://www.hafh.com/properties/409,35.096543,139.073839
+Hostel Knot,https://www.hafh.com/properties/410,34.970503,138.925055
+KéFU stay & lounge,https://www.hafh.com/properties/412,35.032222,135.742891
+ゲストハウス宰嘉庵かなで,https://www.hafh.com/properties/413,35.449871,135.328432
+Luxury hotel SOWAKA,https://www.hafh.com/properties/414,35.001684,135.778297
+"HOTEL SHE, OSAKA",https://www.hafh.com/properties/415,34.664329,135.46452
+紺屋町家,https://www.hafh.com/properties/416,33.7345,135.3738
+志ん屋,https://www.hafh.com/properties/417,35.492354,134.684284
+松江アーバンホテルキュービックルーム,https://www.hafh.com/properties/418,35.465294,133.064747
+シーブリーズ+1987,https://www.hafh.com/properties/419,34.413189,131.008308
+女木島ゲストハウス&カフェMegino,https://www.hafh.com/properties/420,34.393431,134.054955
+バルンバルンの森,https://www.hafh.com/properties/421,33.500422,131.163753
+ta bi to <旅人>,https://www.hafh.com/properties/422,32.616695,128.767673
+カヌチャベイホテル＆ヴィラズ,https://www.hafh.com/properties/423,26.54865,128.076164
+ザ・プリンス京都 宝ヶ池,https://www.hafh.com/properties/424,35.062713,135.781448
+びわ湖大津プリンスホテル,https://www.hafh.com/properties/425,35.004876,135.888735
+名古屋プリンスホテル スカイタワー,https://www.hafh.com/properties/426,35.162392,136.883589
+グランドプリンスホテル広島,https://www.hafh.com/properties/427,34.343186,132.464109
+ハイアット ハウス 金沢,https://www.hafh.com/properties/428,36.580047,136.647836
+Breeze Hostel,https://www.hafh.com/properties/430,12.901864,100.869868
+The ROOM Hotel,https://www.hafh.com/properties/431,4.394954,113.988898
+BeiShan Old Western Style Hostel,https://www.hafh.com/properties/432,24.479211,118.31256
+House of Takao Ginza,https://www.hafh.com/properties/433,22.625171,120.281248
+Arch Studio Cenang,https://www.hafh.com/properties/434,6.288611,99.729174
+百年ゆ宿　旅館大沼,https://www.hafh.com/properties/435,38.747309,140.734758
+ホテルBlissVilla波佐見,https://www.hafh.com/properties/436,33.115426,129.867798
+長崎インターナショナルホテル,https://www.hafh.com/properties/437,32.908508,129.9531
+ホテルディスカバー京都長岡京,https://www.hafh.com/properties/438,34.924797,135.69215
+INN-SECT,https://www.hafh.com/properties/439,35.059017,134.001569
+沖縄サンコーストホテル,https://www.hafh.com/properties/440,26.538273,127.94895
+オキナワグランメールリゾート,https://www.hafh.com/properties/441,26.315199,127.811101
+ビーハイブホステル大阪,https://www.hafh.com/properties/442,34.676892,135.508387
+高尾ベースキャンプ,https://www.hafh.com/properties/443,35.634841,139.270421
+レッドプラネット札幌すすきの南,https://www.hafh.com/properties/444,43.051908,141.358834
+レッドプラネット 東京浅草,https://www.hafh.com/properties/446,35.712163,139.792325
+レッドプラネット広島,https://www.hafh.com/properties/448,34.388965,132.463091
+ペンション カサデバルサ,https://www.hafh.com/properties/450,41.390931,2.176505
+Avenue Guest House,https://www.hafh.com/properties/451,15.21353,145.720469
+Point Blue - Bonifacio Point,https://www.hafh.com/properties/453,14.560051,121.04595
+POINT BLUE - GENERAL LUNA,https://www.hafh.com/properties/454,14.558299,121.048872
+POINT BLUE - QUEZON,https://www.hafh.com/properties/455,14.561564,121.051462
+POINT BLUE - RICARTE BGC,https://www.hafh.com/properties/456,14.557565,121.04885
+Me-fi-You Ishigaki Island (みぃふぁいゆ～石垣島）,https://www.hafh.com/properties/457,24.36561,124.143326
+ホテルサンドリバー石垣島,https://www.hafh.com/properties/458,24.33429,124.167475
+THE STRUCTURE HOSTEL & CAFE BAR,https://www.hafh.com/properties/459,35.364192,132.75615
+Bamba Hotel,https://www.hafh.com/properties/460,35.61458,139.74156
+eph KANAZAWA,https://www.hafh.com/properties/461,36.568918,136.654231
+ステージ浦富,https://www.hafh.com/properties/462,35.589833,134.334321
+城崎温泉　但馬牛の宿　小宿縁,https://www.hafh.com/properties/463,35.625293,134.812857
+The Lo House,https://www.hafh.com/properties/464,24.788688,121.168313
+The Packer Lodge Jakarta,https://www.hafh.com/properties/465,-6.14606,106.814814
+宮津ゲストハウス・ハチハウス,https://www.hafh.com/properties/466,35.53999,135.189536
+Guest House SUETUGU,https://www.hafh.com/properties/467,35.468927,133.046869
+MASCOS HOTEL 益田温泉,https://www.hafh.com/properties/468,34.677835,131.836599
+Palazzin Hotel Malta,https://www.hafh.com/properties/469,35.951781,14.422616
+UNPLAN Village Hakuba,https://www.hafh.com/properties/470,36.748064,137.870844
+ゲストハウスはてなし,https://www.hafh.com/properties/471,33.864708,135.762557
+露伴,https://www.hafh.com/properties/472,34.687238,139.443375
+厝味ツーミ (True Way House),https://www.hafh.com/properties/473,24.712533,121.71142
+01+林依家,https://www.hafh.com/properties/474,24.808943,121.7937
+"Reveries Diving Village, Surf & Spa",https://www.hafh.com/properties/475,1.937773,73.540205
+Capsule Hotel Old Batavia,https://www.hafh.com/properties/476,-6.193226,106.83886
+投げ銭ゲストハウス さんかくワサビ,https://www.hafh.com/properties/477,32.957409,131.895862
+ムーンレイカー・ハウス,https://www.hafh.com/properties/478,52.194614,-1.721351
+オガールイン,https://www.hafh.com/properties/479,39.554804,141.157388
+GuestHouse & Lounge FARO iwaki,https://www.hafh.com/properties/480,37.055705,140.892375
+No.55 Hostel,https://www.hafh.com/properties/481,26.142976,119.91285
+WISE OWL HOSTELS TOKYO,https://www.hafh.com/properties/483,35.674788,139.777265
+WISE OWL HOSTELS SHIBUYA,https://www.hafh.com/properties/484,35.653711,139.689781
+WISE OWL HOSTELS KYOTO,https://www.hafh.com/properties/485,34.982913,135.753546
+NAGI Kurashiki Hotel and Lounge,https://www.hafh.com/properties/486,34.600577,133.765146
+Ｔライフホステル,https://www.hafh.com/properties/487,24.179956,120.589565
+Hanworth House,https://www.hafh.com/properties/488,-27.479386,153.047544
+yuzaka,https://www.hafh.com/properties/489,40.292165,140.822017
+糸島ゲストハウス＆バックパッカーズTOMO,https://www.hafh.com/properties/490,33.560656,130.199161
+町家ゲストハウスみもろ,https://www.hafh.com/properties/491,34.526044,135.846978
+ロマンス座カド,https://www.hafh.com/properties/492,35.096543,139.073839
+Space Hotel,https://www.hafh.com/properties/493,-37.80735,144.965995
+破豆基地 (PHO3TAU7 Hostel),https://www.hafh.com/properties/494,22.69449,120.289394
+HOTEL 3O'CLOCK TENNOJI,https://www.hafh.com/properties/495,34.648909,135.512532
+Reethi Beach Resort,https://www.hafh.com/properties/497,5.256247,73.163725
+LINNAS Kanazawa,https://www.hafh.com/properties/498,36.570767,136.659799
+民宿望海,https://www.hafh.com/properties/499,33.677509,135.344185
+月と海,https://www.hafh.com/properties/500,32.701366,129.914479
+伊勢のゲストハウス 風見荘,https://www.hafh.com/properties/501,34.489267,136.710261
+ストリングスホテル八事NAGOYA,https://www.hafh.com/properties/502,35.137963,136.963422
+OTARU TAP ROOM,https://www.hafh.com/properties/503,43.20113,140.999069
+ホステルサンテラスイシガキ,https://www.hafh.com/properties/504,24.337632,124.161336
+SPICE MOTEL OKINAWA,https://www.hafh.com/properties/505,26.308816,127.78656
+Language Exchange Hostel,https://www.hafh.com/properties/506,10.770798,106.684169
+The Hillside hostel,https://www.hafh.com/properties/507,23.821121,120.854962
+Wood Whispering Residence,https://www.hafh.com/properties/508,22.996391,120.151594
+Surfer's Home,https://www.hafh.com/properties/509,24.862814,121.819406
+思念人之屋 (House106 Guesthouse),https://www.hafh.com/properties/511,22.618336,120.365038
+ハイアット セントリック 銀座 東京,https://www.hafh.com/properties/512,35.670591,139.762228
+plat hostel keikyu haneda home,https://www.hafh.com/properties/513,35.547895,139.748752
+Kasbah Tamsna,https://www.hafh.com/properties/514,30.933009,-6.972389
+MINO102/103,https://www.hafh.com/properties/515,34.207122,133.712205
+ARIAKE105,https://www.hafh.com/properties/516,34.149023,133.647123
+あやべ温泉二王館,https://www.hafh.com/properties/517,35.377518,135.434769
+コンフォートホテル釧路,https://www.hafh.com/properties/518,42.98881,144.383364
+コンフォートホテル北見,https://www.hafh.com/properties/519,43.803615,143.894434
+コンフォートホテル函館,https://www.hafh.com/properties/520,41.772116,140.728066
+コンフォートホテル札幌すすきの,https://www.hafh.com/properties/521,43.055438,141.357039
+コンフォートホテル苫小牧,https://www.hafh.com/properties/522,42.632847,141.602106
+コンフォートホテル帯広,https://www.hafh.com/properties/523,42.917811,143.204572
+温泉の宿 ゲストハウス雷鳥,https://www.hafh.com/properties/526,36.118581,137.625403
+眷待期休憩所 (Juandaiqi Guesthouse),https://www.hafh.com/properties/528,22.618635,120.36472
+四季八里 (Four Season Bali),https://www.hafh.com/properties/529,22.885122,121.237386
+WeBase 鎌倉,https://www.hafh.com/properties/530,35.310963,139.541092
+古民家ゲストハウスSENTŌ,https://www.hafh.com/properties/531,42.256382,140.26712
+宿・ささの木,https://www.hafh.com/properties/533,-44.663029,169.126052
+SEKAI HOTEL布施,https://www.hafh.com/properties/534,34.661942,135.562527
+SUSAMI LIFE HAUS-すさみハウス-,https://www.hafh.com/properties/535,33.510191,135.60584
+Loog Choob Homestay,https://www.hafh.com/properties/536,13.758506,100.515096
+Lhong Yaowarat boutique hotel,https://www.hafh.com/properties/537,13.741,100.511351
+Botanic House Saigon,https://www.hafh.com/properties/538,10.769404,106.697674
+ホテルケイエスピー,https://www.hafh.com/properties/539,35.594986,139.620706
+平野屋,https://www.hafh.com/properties/540,36.670584,138.424328
+神倉書斎,https://www.hafh.com/properties/541,33.724717,135.98395
+N JOY TAKAO,https://www.hafh.com/properties/542,22.620496,120.273512
+ホステル弘前,https://www.hafh.com/properties/543,40.600021,140.483314
+梯田山民宿 (Terrace Resort),https://www.hafh.com/properties/544,23.860743,121.479718
+ホステル宿 (シュク),https://www.hafh.com/properties/545,36.816359,137.583113
+NOMAD白馬,https://www.hafh.com/properties/546,36.691798,137.842276
+Greenpark Homestay,https://www.hafh.com/properties/547,24.688228,121.752788
+攝影師space (Photographer's Space),https://www.hafh.com/properties/549,22.7202,120.488674
+就這兒旅居 (Hereb&b),https://www.hafh.com/properties/550,23.566587,119.565855
+OMISHIMA SPACE「HANARE」,https://www.hafh.com/properties/551,34.243307,133.051292
+PUBLIC HOUSE WONDER,https://www.hafh.com/properties/552,41.981945,140.672758
+The Little Garden,https://www.hafh.com/properties/553,31.72875,131.463
+奥州秋保温泉 蘭亭,https://www.hafh.com/properties/554,38.222991,140.726362
+カフーイン勝連シートピア,https://www.hafh.com/properties/556,26.326552,127.88033
+KIBOTCHA,https://www.hafh.com/properties/558,38.375849,141.153185
+ALTROVE House,https://www.hafh.com/properties/559,22.001517,120.743536
+WISE OWL HOSTELS RIVER TOKYO,https://www.hafh.com/properties/560,35.710756,139.804765
+Il nido della civetta,https://www.hafh.com/properties/561,43.769236,11.254189
+シェーンガルテンおみ,https://www.hafh.com/properties/562,36.454219,138.018175
+石垣島ホテルククル,https://www.hafh.com/properties/563,24.339111,124.156937
+ゲストハウスちゅらククル石垣島,https://www.hafh.com/properties/564,24.34393,124.153683
+蔵ステイ池森,https://www.hafh.com/properties/565,36.8571,136.987612
+HIKE,https://www.hafh.com/properties/566,32.927297,130.562911
+ゲストハウス POST INN,https://www.hafh.com/properties/567,34.24491,135.85587
+Aqueen Hotel Paya Lebar,https://www.hafh.com/properties/569,1.322091,103.891619
+On My Way Taitung Hostel & Backpacker,https://www.hafh.com/properties/570,22.797404,121.124117
+フォレストかみきた,https://www.hafh.com/properties/571,34.138652,136.000836
+Farmhouse 合,https://www.hafh.com/properties/572,34.487752,135.963479
+THE TOURIST HOTEL&Cafe AKIHABARA,https://www.hafh.com/properties/573,35.700823,139.777088
+HOJO MACHI HOSTEL,https://www.hafh.com/properties/574,34.932569,134.831173
+GOOD OLD HOTEL,https://www.hafh.com/properties/575,40.60011,140.470469
+W Abu Dhabi - Yas Island,https://www.hafh.com/properties/576,24.467232,54.6054
+福井ゲストハウスSAMMIE'S,https://www.hafh.com/properties/577,36.061745,136.226921
+THE MACHIYA SHINSEN-EN,https://www.hafh.com/properties/578,35.01037,135.747636
+THE MACHIYA EBISUYA,https://www.hafh.com/properties/579,34.999402,135.764709
+SEASIDE OFFICE＆喜如嘉庵,https://www.hafh.com/properties/581,26.705211,128.135729
+We Home Villa 城ケ崎温泉,https://www.hafh.com/properties/582,34.882655,139.119334
+HIPPO Hostel & Cafe Bar,https://www.hafh.com/properties/583,34.664273,135.532064
+パーチゲストハウス,https://www.hafh.com/properties/584,34.864444,134.546257
+古民家カフェ＆ゲストハウス　ナマケモノ,https://www.hafh.com/properties/585,35.972893,136.489416
+DouDian DDINN Hotel,https://www.hafh.com/properties/586,24.134266,120.68551
+Life is like a BOX of Chocolates,https://www.hafh.com/properties/587,25.027456,121.522426
+Aparthotel ADAGIO Berlin Kurfürstendamm,https://www.hafh.com/properties/588,52.499246,13.321563
+Gogoal Latkrabang,https://www.hafh.com/properties/589,13.718223,100.765134
+Draper Startup House for Entrepreneurs Lisbon,https://www.hafh.com/properties/590,38.71167,-9.156409
+Draper Startup House for Entrepreneurs Bali,https://www.hafh.com/properties/591,-8.613823,115.161473
+Draper Startup House for Entrepreneurs Yangon,https://www.hafh.com/properties/592,16.77578,96.143602
+Draper Startup House for Entrepreneurs Tallinn,https://www.hafh.com/properties/593,59.440782,24.749946
+Draper Startup House for Entrepreneurs Chiang Mai,https://www.hafh.com/properties/594,18.796152,98.968341
+Draper Startup House for Entrepreneurs Koramangala,https://www.hafh.com/properties/595,12.935457,77.613299
+iRoHa Garden Hotel & Resort,https://www.hafh.com/properties/600,11.540436,104.924307
+ゲストハウス由苑,https://www.hafh.com/properties/601,34.694647,135.486506
+荒島旅舎,https://www.hafh.com/properties/602,35.984197,136.490286
+コダテル,https://www.hafh.com/properties/603,33.46045,132.412784
+空飛ブウサギ,https://www.hafh.com/properties/604,36.852282,138.158917
+Re-harmo PJ 有川青少年旅行村,https://www.hafh.com/properties/605,32.983057,129.103407
+Re-harmo PJ 高井旅ロッジコテージ,https://www.hafh.com/properties/606,32.86356,129.067239
+閣樓青年會所 (ATTIC Hostel),https://www.hafh.com/properties/607,25.010281,121.531814
+私客創旅 (Thinker Hotel),https://www.hafh.com/properties/608,24.950966,121.347622
+好好GooD Dive,https://www.hafh.com/properties/609,21.948109,120.74065
+Draper Startup House for Entrepreneurs Manila,https://www.hafh.com/properties/610,14.564665,121.030881
+Luxury Backpackers,https://www.hafh.com/properties/611,21.029414,105.848145
+農家のオーベルジュこもれび,https://www.hafh.com/properties/612,34.507554,135.785791
+働Co-living,https://www.hafh.com/properties/613,35.996809,139.085166
+ゲストハウスORIORI,https://www.hafh.com/properties/614,37.871527,138.950305
+海辺のBed&Breakfast GOOD MORNING ZAIMOKUZA,https://www.hafh.com/properties/615,35.30766,139.547847
+さいとう宿場,https://www.hafh.com/properties/616,33.013579,129.946065
+ゲストハウス和茶美,https://www.hafh.com/properties/617,33.813494,129.743454
+eph KYOTO,https://www.hafh.com/properties/618,34.982485,135.760527
+旅館いち川,https://www.hafh.com/properties/619,35.454458,137.41232
+UNITY HOSTEL SIEM REAP,https://www.hafh.com/properties/620,13.351783,103.855118
+コンフォートホテル仙台西口,https://www.hafh.com/properties/621,38.259441,140.878347
+コンフォートホテル北上,https://www.hafh.com/properties/623,39.281341,141.12314
+コンフォートホテル仙台東口,https://www.hafh.com/properties/624,38.262566,140.884928
+コンフォートホテル秋田,https://www.hafh.com/properties/625,39.717721,140.126741
+ゲストハウスじんく,https://www.hafh.com/properties/626,38.081044,138.434604
+sakainoma residence 熊,https://www.hafh.com/properties/627,34.57951,135.474297
+コンフォートホテル山形,https://www.hafh.com/properties/629,38.247945,140.329506
+コンフォートホテル郡山,https://www.hafh.com/properties/630,37.394935,140.392106
+コンフォートスイーツ東京ベイ,https://www.hafh.com/properties/631,35.63854,139.927295
+Blue Cove Terrace,https://www.hafh.com/properties/632,24.822853,125.172442
+ロガシス石垣野底ヴィラ,https://www.hafh.com/properties/633,24.50648,124.248688
+FUJIYA HOSTEL,https://www.hafh.com/properties/635,31.838422,129.925795
+コンフォートホテル横浜関内,https://www.hafh.com/properties/636,35.446785,139.636884
+コンフォートホテル東京清澄白河,https://www.hafh.com/properties/637,35.682259,139.799678
+コンフォートホテル東京神田,https://www.hafh.com/properties/638,35.693564,139.774374
+コンフォートホテル東京東神田,https://www.hafh.com/properties/639,35.694516,139.779698
+コンフォートホテル東京東日本橋,https://www.hafh.com/properties/640,35.694125,139.782933
+コンフォートイン東京六本木,https://www.hafh.com/properties/641,35.663608,139.733744
+3Housesinn,https://www.hafh.com/properties/642,23.009092,120.209433
+簡單生活民宿 (Simple life),https://www.hafh.com/properties/643,24.032984,121.596235
+May Rooms Taipei,https://www.hafh.com/properties/644,25.054922,121.610744
+May Rooms Taipei Main Station,https://www.hafh.com/properties/645,25.047273,121.510969
+May Rooms Taipei NTU Gongguan,https://www.hafh.com/properties/646,25.0106,121.537
+HOSTEL perch,https://www.hafh.com/properties/647,38.001975,138.318592
+Members Hotel at Taipei 101,https://www.hafh.com/properties/648,25.031907,121.558623
+ゲストハウス Coco garage,https://www.hafh.com/properties/649,31.856026,130.839286
+Tipy records inn,https://www.hafh.com/properties/650,35.256682,139.158085
+Tipy records house,https://www.hafh.com/properties/651,35.257247,139.158704
+HOTEL ETWAS (エトワス)天神,https://www.hafh.com/properties/652,33.592322,130.395417
+八百熊川,https://www.hafh.com/properties/653,35.443406,135.900905
+たびの邸宅 沖縄備瀬,https://www.hafh.com/properties/654,26.705404,127.881543
+たびの邸宅 沖縄今帰仁,https://www.hafh.com/properties/655,26.702399,127.935077
+たびの邸宅 沖縄那覇,https://www.hafh.com/properties/656,26.220442,127.679281
+Tipy records room,https://www.hafh.com/properties/657,35.257027,139.159114
+365Hostel,https://www.hafh.com/properties/658,22.998301,120.199838
+TWIN-LINE HOTEL KARUIZAWA JAPAN,https://www.hafh.com/properties/659,36.34893,138.634592
+ゼウスハウス,https://www.hafh.com/properties/660,30.683256,131.061247
+柚子のあぜ道 雨乞のかえる,https://www.hafh.com/properties/661,38.108551,140.782619
+ゲストハウス古民家江口屋,https://www.hafh.com/properties/662,36.071787,140.375119
+CANAAN Coffee＆Hotel,https://www.hafh.com/properties/663,24.351684,123.978731
+MYLAND-isumi-,https://www.hafh.com/properties/664,35.319926,140.403699
+リッチモンドホテルプレミア東京押上,https://www.hafh.com/properties/665,35.710234,139.813758
+Paysage MORIGUCHI,https://www.hafh.com/properties/666,34.067958,134.147512
+Yamairo guesthouse,https://www.hafh.com/properties/667,35.497058,137.83886
+NORTH FRONT HOSTEL,https://www.hafh.com/properties/668,35.298267,135.118935
+樹舍民宿 (TREE INN),https://www.hafh.com/properties/669,22.900915,121.12465
+廈門+緣 (Summer gate guesthouse),https://www.hafh.com/properties/670,22.670573,120.493894
+47ホステル,https://www.hafh.com/properties/671,27.393921,128.656483
+国民宿舎くろさき荘,https://www.hafh.com/properties/672,40.005149,141.935302
+B&B45,https://www.hafh.com/properties/673,37.033179,136.895979
+ホテルハーベスオキナワ,https://www.hafh.com/properties/674,26.250565,127.703114
+スプリングサニーホテル名古屋常滑駅前,https://www.hafh.com/properties/675,34.888331,136.835644
+The Green Room INN,https://www.hafh.com/properties/676,34.607543,138.182228
+チャトリウムニセコ,https://www.hafh.com/properties/677,42.860161,140.705882
+下呂温泉　木曽屋,https://www.hafh.com/properties/678,35.805262,137.244412
+壯圍張宅 (Chang House),https://www.hafh.com/properties/679,24.753141,121.81305
+奄美ゲストハウス HUB a nice INN,https://www.hafh.com/properties/680,28.168567,129.333564
+荒堂一室 (FunNest Stay),https://www.hafh.com/properties/681,22.985717,120.190319
+喜代多旅館,https://www.hafh.com/properties/682,36.692219,137.215161
+ケラミック有田 (Keramiek Arita),https://www.hafh.com/properties/683,33.188794,129.897413
+ワイズホテル旭川駅前,https://www.hafh.com/properties/684,43.762804,142.359825
+ワイズホテル阪神尼崎駅前,https://www.hafh.com/properties/685,34.719795,135.417412
+ワイズホテル新大阪,https://www.hafh.com/properties/686,34.729792,135.496645
+眺尾伽藍,https://www.hafh.com/properties/687,34.910865,139.859624
+ホテルアベスト長野駅前,https://www.hafh.com/properties/688,36.644111,138.187563
+ベッセルホテル都城,https://www.hafh.com/properties/689,31.758259,131.085693
+壱 THE HOSTEL,https://www.hafh.com/properties/690,33.732232,134.532213
+ベッセルホテル福岡貝塚,https://www.hafh.com/properties/691,33.635586,130.423933
+ベッセルイン博多中洲,https://www.hafh.com/properties/692,33.594165,130.404825
+軽井沢プリンスホテル ウエスト,https://www.hafh.com/properties/693,36.336708,138.633112
+アネックスホテルアベ,https://www.hafh.com/properties/694,38.769716,141.122608
+ベッセルホテル苅田北九州空港,https://www.hafh.com/properties/695,33.782467,130.985474
+EASY HOSTEL,https://www.hafh.com/properties/696,32.197314,130.023288
+HANA HOMESTAY DANANG,https://www.hafh.com/properties/697,16.056223,108.244704
+Best Bed Suvarnabhumi Hostel,https://www.hafh.com/properties/698,13.713641,100.739778
+Bangkok Voyage Boutique,https://www.hafh.com/properties/699,13.777856,100.541755
+Hostel&Cafe Farolito,https://www.hafh.com/properties/700,33.343524,130.754455
+ベッセルホテル熊本空港,https://www.hafh.com/properties/701,32.875198,130.853035
+ハコブネタイニーハウス,https://www.hafh.com/properties/702,26.422271,127.744223
+Nature Cottage Akabeko,https://www.hafh.com/properties/703,37.669928,140.078303
+illi Shimokitazawa,https://www.hafh.com/properties/704,35.662372,139.668178
+illi Nakano,https://www.hafh.com/properties/705,35.710115,139.665807
+南三陸ホテル観洋,https://www.hafh.com/properties/706,38.658592,141.449081
+ホテルアベスト目黒,https://www.hafh.com/properties/708,35.634251,139.714697
+"Wild Cherry Blossom -HOSTEL,TOKYO KOGANEI-",https://www.hafh.com/properties/709,35.698085,139.507679
+サンマリン気仙沼ホテル観洋,https://www.hafh.com/properties/710,38.901665,141.577661
+気仙沼プラザホテル,https://www.hafh.com/properties/711,38.903889,141.578368
+京都・亀岡 湯の花温泉 里山の休日京都・烟河,https://www.hafh.com/properties/712,35.021849,135.499945
+グリーンホテルＹｅｓ長浜みなと館,https://www.hafh.com/properties/713,35.375181,136.26587
+TIPS HOSTEL,https://www.hafh.com/properties/714,33.420053,130.529855
+時乃家・奈良吉野,https://www.hafh.com/properties/715,34.388871,135.850008
+であう・つながる・わくやの宿　あんだあも,https://www.hafh.com/properties/716,38.538854,141.12784
+阿蘇び心,https://www.hafh.com/properties/717,32.93557,131.065341
+丘のホテル,https://www.hafh.com/properties/718,38.261311,140.893223
+森林ホテル,https://www.hafh.com/properties/719,36.044015,139.373527
+Guesthouse EL CAMPO,https://www.hafh.com/properties/720,32.659446,131.16511
+マンテンゲストハウス,https://www.hafh.com/properties/721,35.300824,138.933563
+winson house,https://www.hafh.com/properties/722,21.989937,120.847925
+鶯宿温泉 長栄館,https://www.hafh.com/properties/723,39.63469,140.921397
+ハコブネファミリーハウス,https://www.hafh.com/properties/724,26.422131,127.743976
+eat&stay ROMEY,https://www.hafh.com/properties/725,34.91589,138.357816
+Tsai Yun Inn,https://www.hafh.com/properties/726,22.995871,120.203114
+馨藝庭園民宿 (SeeU Coffee & BnB),https://www.hafh.com/properties/727,24.49774,120.761998
+"DA XI LAO CHENG,SI-JI-XING-GUAN",https://www.hafh.com/properties/728,24.879354,121.287743
+アスティルホテル十三プレシャス,https://www.hafh.com/properties/729,34.719895,135.479985
+OKUTAMA+,https://www.hafh.com/properties/730,35.811255,139.158883
+たびの邸宅 蔵王みやぎ1st,https://www.hafh.com/properties/731,38.113187,140.60646
+たびの邸宅 蔵王みやぎ2nd,https://www.hafh.com/properties/732,38.112959,140.606544
+ホテル　デイバイデイ,https://www.hafh.com/properties/733,34.706996,137.741378
+ホテル　アークリッシュ豊橋,https://www.hafh.com/properties/734,34.762699,137.384081
+松本亭一農舎,https://www.hafh.com/properties/735,38.290812,140.123413
+ときたまひみつきち COMORIVER,https://www.hafh.com/properties/736,36.006932,139.268987
+BIO-RESORT HOTEL&SPA O Park OGOSE,https://www.hafh.com/properties/737,35.946569,139.294828
+yado & kissa UGO HUB,https://www.hafh.com/properties/738,39.199594,140.40169
+アスティルホテル新大阪,https://www.hafh.com/properties/739,34.73841,135.48439
+4S STAY 阿波池田駅前,https://www.hafh.com/properties/740,34.027885,133.805507
+4S STAY 阿波池田本町通り,https://www.hafh.com/properties/741,34.029424,133.808785
+四日市温泉おふろcafé湯守座カプセルホテル旅籠屋,https://www.hafh.com/properties/742,34.987356,136.60201
+南道後温泉ホテルていれぎ館,https://www.hafh.com/properties/743,33.782558,132.785431
+Ishinomaki Home Base,https://www.hafh.com/properties/744,38.417319,141.349266
+ペンション kahuna,https://www.hafh.com/properties/746,36.222096,136.136433
+ホテルマッシモミシマ,https://www.hafh.com/properties/747,35.125157,138.91325
+ホテルSUI神田 by Abest,https://www.hafh.com/properties/748,35.690775,139.7733
+月のホテル,https://www.hafh.com/properties/749,38.920895,139.845494
+CLIP / Mad Cat Hostel & Bar,https://www.hafh.com/properties/750,34.634691,135.510205
+ホテルアベスト那覇国際通り,https://www.hafh.com/properties/751,26.214046,127.680811
+SHICHI NO HOTEL,https://www.hafh.com/properties/752,38.304419,141.084071
+答志島温泉　美さき,https://www.hafh.com/properties/753,34.52761,136.902592
+弄潮 (Tidal hostel),https://www.hafh.com/properties/754,22.611716,120.267415
+Bed&Bicycle,https://www.hafh.com/properties/755,34.586643,135.621035
+ホテル松風,https://www.hafh.com/properties/756,35.061942,137.140319
+淡水民宿-台北YES (taipeiyeshostel),https://www.hafh.com/properties/757,25.171074,121.443992
+泊まれる町家天領上下,https://www.hafh.com/properties/758,34.69512,133.120346
+Dot Hotel Yanbaru,https://www.hafh.com/properties/759,26.602164,128.123575
+WORLDTRECK DINER & GUESTHOUSE - Pise,https://www.hafh.com/properties/760,36.652839,138.187419
+おふろcafé utatane,https://www.hafh.com/properties/761,35.927507,139.615992
+シーダイブ ドミトリー,https://www.hafh.com/properties/762,33.121668,139.815824
+南アルプス36〜アウトドアの宿 Od-inn〜,https://www.hafh.com/properties/763,35.63624,138.366075
+LOGINN tarasso,https://www.hafh.com/properties/764,27.385591,128.652183
+微微山房 (W&W House 3),https://www.hafh.com/properties/765,25.196425,121.594573
+FUKUOKA門司港ステイ,https://www.hafh.com/properties/766,33.943433,130.964525
+the b 赤坂,https://www.hafh.com/properties/767,35.671476,139.733034
+the b 名古屋,https://www.hafh.com/properties/768,35.166752,136.909718
+グリッズ 東京 上野駅前 ホテル & ホステル,https://www.hafh.com/properties/769,35.715212,139.779234
+IMANO OSAKA SHINSAIBASHI HOSTEL,https://www.hafh.com/properties/770,34.672901,135.495043
+LESTEL NAHA,https://www.hafh.com/properties/771,26.212076,127.689071
+Music Uni Street Backpackers Hostel,https://www.hafh.com/properties/772,34.751975,135.46737
+パストラル縁の郷,https://www.hafh.com/properties/773,38.393218,140.998423
+ケリエ山荘,https://www.hafh.com/properties/774,36.267294,136.71806
+十方山水民宿 (SunSweetHouse),https://www.hafh.com/properties/775,23.421771,120.661156
+Funny hours HAKUBA,https://www.hafh.com/properties/776,36.713668,137.868703
+旅籠丸八,https://www.hafh.com/properties/777,36.71425,137.870046
+東光園,https://www.hafh.com/properties/778,35.457789,133.36518
+Sambor Village,https://www.hafh.com/properties/780,12.710702,104.89537
+La'gent Hotel Okinawa Chatan/Hotel&Hostel,https://www.hafh.com/properties/781,26.32097,127.75518
+ホテル・トリフィート金沢,https://www.hafh.com/properties/782,36.575418,136.649623
+ホテル・トリフィート那覇旭橋,https://www.hafh.com/properties/783,26.21433,127.67278
+ホテル・トリフィート宮古島リゾート,https://www.hafh.com/properties/784,24.778203,125.301411
+THE KNOT HIROSHIMA,https://www.hafh.com/properties/785,34.389393,132.45526
+ホテル・トリフィート小樽運河,https://www.hafh.com/properties/786,43.198667,141.000747
+ホテル・トリフィート柏の葉,https://www.hafh.com/properties/787,35.891796,139.949971
+ラ・ジェント・ホテル東京ベイ,https://www.hafh.com/properties/789,35.640922,139.929919
+国民宿舎紀州路みなべ,https://www.hafh.com/properties/791,33.751684,135.324146
+THE KNOT SAPPORO,https://www.hafh.com/properties/792,43.056919,141.353355
+深山林內 (SHEN SHAN LIN NEI),https://www.hafh.com/properties/793,23.687668,120.714658
+背包41青年旅館 (Backpacker 41 Hostel),https://www.hafh.com/properties/794,24.138486,120.681806
+背包41青年旅館-高雄館 (Backpacker 41 Hostel - Kaohsiung),https://www.hafh.com/properties/795,22.61617,120.304296
+分手巧克力 (Chocolate Solo),https://www.hafh.com/properties/796,23.267095,121.424999
+ホステル風呂屋,https://www.hafh.com/properties/797,34.675714,135.535315
+3080s apartment,https://www.hafh.com/properties/798,22.62448,120.282097
+芦別温泉スターライトホテル＆おふろcafe星遊館,https://www.hafh.com/properties/799,43.545462,142.241118
+せとうち古民家ステイズHiroshima 長者屋,https://www.hafh.com/properties/800,34.9767,133.030984
+ファミーイン幕張,https://www.hafh.com/properties/802,35.669249,140.037666
+ラ・ジェント・ホテル大阪ベイ,https://www.hafh.com/properties/803,34.662494,135.43467
+温泉旅館 丸茂,https://www.hafh.com/properties/805,35.493427,134.230488
+HANARE KYOTO 八条口,https://www.hafh.com/properties/806,34.982847,135.756553
+梅湯の宿 by 宿ルKYOTO HANARE,https://www.hafh.com/properties/808,34.992963,135.765956
+侍邸 京都清水 by 宿ルKYOTO HANARE,https://www.hafh.com/properties/809,34.992836,135.775798
+二条式部庵 by 宿ルKYOYO HANARE,https://www.hafh.com/properties/810,35.0145,135.743835
+富士山ゲストハウス掬水,https://www.hafh.com/properties/812,35.227853,138.611304
+SPA GUEST HOUSE LULUD,https://www.hafh.com/properties/813,36.690569,138.774982
+NAGI Hiroshima Hotel & Lounge,https://www.hafh.com/properties/814,34.393915,132.474011
+LAZULI Hiroshima Hotel & Lounge,https://www.hafh.com/properties/815,34.39086,132.479454
+ステイビューいかほ,https://www.hafh.com/properties/816,36.499703,138.918181
+たちばな庵 by 宿ルKYOTO HANARE,https://www.hafh.com/properties/818,35.021184,135.758226
+ワラビーハウス,https://www.hafh.com/properties/819,35.829998,139.695026
+カーヌスバ ザマミ,https://www.hafh.com/properties/820,26.229808,127.303007
+アーバイン京都四条大宮,https://www.hafh.com/properties/822,35.003786,135.746486
+ホテルグランヴィア京都,https://www.hafh.com/properties/823,34.985873,135.758725
+吉田の小さなお宿　入ル,https://www.hafh.com/properties/824,35.021332,135.782308
+アパートメントホテルステイザ大阪,https://www.hafh.com/properties/825,34.411842,135.317816
+ラ・ジェント・ホテル新宿歌舞伎町,https://www.hafh.com/properties/826,35.69741,139.702016
+THE BOLY OSAKA,https://www.hafh.com/properties/828,34.692219,135.504923
+トリフィートホテル＆ポッド金沢百万石通,https://www.hafh.com/properties/829,36.568683,136.654158
+LIME RESORT MYOKO（ライムリゾート妙高）,https://www.hafh.com/properties/831,36.864009,138.177231
+ホテルヴィスキオ尼崎 by GRANVIA,https://www.hafh.com/properties/832,34.733196,135.432463
+Original B&B,https://www.hafh.com/properties/833,23.125646,121.216693
+ホテルグランヴィア和歌山,https://www.hafh.com/properties/835,34.232868,135.190199
+ホテルグランヴィア岡山,https://www.hafh.com/properties/837,34.663909,133.917368
+和倉温泉 ホテル海望,https://www.hafh.com/properties/838,37.088084,136.921675
+LIME RESORT HAKONE（ライムリゾート箱根）,https://www.hafh.com/properties/839,35.252927,139.000748
+ホテルグランヴィア大阪,https://www.hafh.com/properties/841,34.701726,135.496375
+ホテルヴィスキオ大阪 by GRANVIA,https://www.hafh.com/properties/842,34.706155,135.495366
+生駒のお宿城山旅館,https://www.hafh.com/properties/843,34.685001,135.689728
+COCOSTAY西川口駅前,https://www.hafh.com/properties/844,35.81595,139.70305
+ホテルトムス,https://www.hafh.com/properties/845,35.563791,139.710239
+アールズフォレストイン,https://www.hafh.com/properties/846,35.52697,139.69733
+川湯観光ホテル,https://www.hafh.com/properties/847,43.636425,144.439316
+魚樂魚池青年旅館 (OneLife Hostel),https://www.hafh.com/properties/848,23.897237,120.938317
+ホテルグランヴィア広島,https://www.hafh.com/properties/849,34.399133,132.475467
+天空の庭 天馬夢,https://www.hafh.com/properties/850,36.75702,140.59306
+Dot Cottage Imgya Terrace,https://www.hafh.com/properties/854,24.730574,125.363679
+Dot Cottage 385,https://www.hafh.com/properties/855,24.729713,125.341322
+kaien Hostel & Café BAR,https://www.hafh.com/properties/856,37.500286,139.920966
+Dot Hotel Okinawa,https://www.hafh.com/properties/857,26.602164,128.123575
+SAIK-西玖,https://www.hafh.com/properties/860,36.555249,136.647523
+グランドキャビンホテル那覇小禄,https://www.hafh.com/properties/861,26.191908,127.660693
+AMIGO HOUSE,https://www.hafh.com/properties/863,35.295565,139.57107
+ＧＲＧホテル那覇東町,https://www.hafh.com/properties/865,26.213669,127.675201
+ナインアワーズ 仙台,https://www.hafh.com/properties/867,38.262171,140.869051
+ナインアワーズ大手町,https://www.hafh.com/properties/869,35.692117,139.760038
+ナインアワーズ水道橋,https://www.hafh.com/properties/874,35.701698,139.750975
+ナインアワーズ名古屋駅,https://www.hafh.com/properties/875,35.1745,136.884432
+ナインアワーズ浜松町,https://www.hafh.com/properties/876,35.657356,139.755911
+ナインアワーズ博多駅,https://www.hafh.com/properties/878,33.588591,130.416451
+ドシー恵比寿,https://www.hafh.com/properties/879,35.647921,139.710073
+道頓堀の宿 今昔荘 庭風呂別邸 合薬屋,https://www.hafh.com/properties/881,34.668173,135.507494
+ラドーレ神河,https://www.hafh.com/properties/882,35.065482,134.741099
+トリフィート ホテル&ポッド ニセコ,https://www.hafh.com/properties/883,42.888459,140.750473
+ラ・ジェント・ステイ札幌大通,https://www.hafh.com/properties/884,43.057798,141.350792
+グリッズプレミアムホテル大阪なんば,https://www.hafh.com/properties/886,34.664646,135.498698
+GLOCE ゲストルーム Bihoro,https://www.hafh.com/properties/888,43.828429,144.108377
+リッチモンドホテル浅草,https://www.hafh.com/properties/889,35.714303,139.794341
+リッチモンドホテルプレミア浅草インターナショナル,https://www.hafh.com/properties/890,35.714089,139.793689
+サンタフェC,https://www.hafh.com/properties/891,26.351415,127.857133
+バケーション・レンタハウス・ステラ,https://www.hafh.com/properties/892,26.52196,127.926765
+コンドミニアム・HARU・那覇県庁前,https://www.hafh.com/properties/893,26.213875,127.677569
+神戸ポートタワーホテル なごみの湯宿,https://www.hafh.com/properties/894,34.685018,135.185558
+好得文旅(Chill Roof Hotel),https://www.hafh.com/properties/895,25.052306,121.528452
+默默小院(Momo B&B),https://www.hafh.com/properties/896,21.994243,120.746766
+草の庭,https://www.hafh.com/properties/897,36.147148,137.261446
+紀文の庭,https://www.hafh.com/properties/898,36.146939,137.258393
+ハイアット リージェンシー 瀬良垣アイランド 沖縄,https://www.hafh.com/properties/899,26.51195,127.868866
+喫茶、食堂、民宿。なごのや,https://www.hafh.com/properties/900,35.176265,136.89166
+ホテルかずさや,https://www.hafh.com/properties/901,35.689712,139.774571
+冬山驛青旅(Dongshan Yi Hostel),https://www.hafh.com/properties/902,24.639626,121.791909
+温もりの宿 辰巳館,https://www.hafh.com/properties/904,36.738624,138.983962
+Umekoji Potel KYOTO（梅小路ポテル京都）,https://www.hafh.com/properties/905,34.987543,135.746039
+HOTEL MASTAY 神宮道,https://www.hafh.com/properties/906,35.009449,135.783054
+ヴィアイン東京大井町,https://www.hafh.com/properties/907,35.604347,139.734119
+ヴィアイン新宿,https://www.hafh.com/properties/908,35.693381,139.70743
+ヴィアイン東銀座,https://www.hafh.com/properties/909,35.667045,139.770404
+ヴィアイン飯田橋後楽園,https://www.hafh.com/properties/910,35.705576,139.743407
+ヴィアイン日本橋人形町,https://www.hafh.com/properties/911,35.685132,139.780045
+ヴィアイン名古屋新幹線口,https://www.hafh.com/properties/912,35.168538,136.87833
+ヴィアイン名古屋駅前椿町,https://www.hafh.com/properties/913,35.169552,136.878215
+ヴィアイン大阪京橋,https://www.hafh.com/properties/914,34.695199,135.532271
+ヴィアインあべの天王寺,https://www.hafh.com/properties/915,34.647226,135.511573
+ヴィアイン姫路,https://www.hafh.com/properties/916,34.8254,134.692244
+ヴィアイン下関,https://www.hafh.com/properties/917,33.950601,130.924791
+Myeongdong Guesthouse COMO,https://www.hafh.com/properties/918,37.560381,126.987196
+Myeong dong K Stay guest house,https://www.hafh.com/properties/919,37.561981,126.988447
+The Capsule Myeongdong,https://www.hafh.com/properties/920,37.563512,126.998828
+Hotel Vintage 東京,https://www.hafh.com/properties/921,35.67123,139.777541
+Hotel Mei,https://www.hafh.com/properties/922,33.585933,130.406522
+Villettina,https://www.hafh.com/properties/923,24.785157,125.26147
+松島ホテル和楽,https://www.hafh.com/properties/924,38.376811,141.068484
+Upflo-Hostel,https://www.hafh.com/properties/925,37.493691,127.017006
+ゼンティス大阪,https://www.hafh.com/properties/926,34.695744,135.496394
+test,https://www.hafh.com/properties/927,37.560543,126.987186
+おふろcaféびわこ座,https://www.hafh.com/properties/928,34.990652,135.935434
+marutto石川,https://www.hafh.com/properties/929,36.566611,136.663549
+KIKI HOTEL,https://www.hafh.com/properties/930,36.56577,136.6514
+眠音ホテルISHITAYA,https://www.hafh.com/properties/931,36.578367,136.65497
+海を見渡す個室露天の宿 伊勢屋,https://www.hafh.com/properties/933,32.726955,130.206711
+THE FORCE IEJIMA,https://www.hafh.com/properties/934,26.708268,127.814918
+ホテルWBFアートステイ那覇,https://www.hafh.com/properties/935,26.216825,127.687484
+ジェイホッパーズ大阪ユニバーサル,https://www.hafh.com/properties/936,34.6753,135.442931
+柵口温泉 権現荘,https://www.hafh.com/properties/937,37.034785,138.067969
+日向美々津の宿,https://www.hafh.com/properties/938,32.336796,131.611847
+ＨＯＴＥＬ ＡＲＵ ＫＹＯＴＯ三条木屋町通り,https://www.hafh.com/properties/946,35.008504,135.770086
+ホテルタビノス浅草,https://www.hafh.com/properties/947,35.716377,139.792929
+鳥羽国際ホテル,https://www.hafh.com/properties/948,34.491834,136.841822
+潮路亭,https://www.hafh.com/properties/949,34.490763,136.840335
+NEMU RESORT,https://www.hafh.com/properties/950,34.29759,136.794706
+ANCHOR HOTEL FUKUYAMA,https://www.hafh.com/properties/951,34.491368,133.364192
+Nordisk Village Goto Islands,https://www.hafh.com/properties/952,32.642071,128.763841
+Irori Guesthouse 天幕,https://www.hafh.com/properties/953,35.244443,139.050358
+MINAWA,https://www.hafh.com/properties/954,33.909368,130.408917
+Apollo Guesthouse,https://www.hafh.com/properties/955,37.522619,126.892729
+HOTEL ANTEROOM SEOUL,https://www.hafh.com/properties/956,37.518836,127.025209
+コンフォートホテル京都堀川五条,https://www.hafh.com/properties/957,34.995737,135.752799
+釧路プリンスホテル,https://www.hafh.com/properties/958,42.984743,144.380522
+コンフォートイン京都四条烏丸,https://www.hafh.com/properties/959,35.004777,135.757514
+SHONAI HOTEL SUIDEN TERRASSE,https://www.hafh.com/properties/960,38.746516,139.8222
+玩客棧旅館 (Player Hostel),https://www.hafh.com/properties/961,25.052306,121.528452
+HOTEL K5,https://www.hafh.com/properties/962,35.682864,139.778157
+ニューオータニイン札幌,https://www.hafh.com/properties/964,43.06459,141.354655
+HOSTEL HARU,https://www.hafh.com/properties/965,37.568928,126.984294
+UMITO the salon IZU,https://www.hafh.com/properties/966,34.899093,139.103299
+EVER 8 Serviced Residence,https://www.hafh.com/properties/967,37.557435,126.942542
+NOHGA HOTEL UENO TOKYO（ノーガホテル上野東京）,https://www.hafh.com/properties/968,35.710218,139.778126
+日光金谷ホテル,https://www.hafh.com/properties/969,36.752081,139.603896
+中禅寺金谷ホテル,https://www.hafh.com/properties/970,36.751569,139.463474
+NIPPONIA 鞆 港町,https://www.hafh.com/properties/971,34.384214,133.383189
+In Bloom Beppu,https://www.hafh.com/properties/972,33.281049,131.496154
+toggle hotel suidobashi,https://www.hafh.com/properties/973,35.702542,139.749809
+雲仙温泉 東園,https://www.hafh.com/properties/974,32.745495,130.259354
+コンフォートホテル新潟駅前,https://www.hafh.com/properties/976,37.912702,139.057959
+コンフォートイン新潟亀田,https://www.hafh.com/properties/977,37.869187,139.085556
+コンフォートホテル彦根,https://www.hafh.com/properties/978,35.272075,136.265289
+コンフォートホテル新大阪,https://www.hafh.com/properties/980,34.730024,135.50108
+コンフォートホテル大阪心斎橋,https://www.hafh.com/properties/981,34.672045,135.503586
+コンフォートホテル堺,https://www.hafh.com/properties/982,34.57974,135.466715
+コンフォートホテル神戸三宮,https://www.hafh.com/properties/983,34.695595,135.19829
+コンフォートホテル姫路,https://www.hafh.com/properties/984,34.828469,134.695047
+コンフォートホテル和歌山,https://www.hafh.com/properties/985,34.233606,135.189817
+コンフォートホテル呉,https://www.hafh.com/properties/986,34.243134,132.55864
+伝泊「小松」（大杉谷川に佇む囲炉裏の宿）,https://www.hafh.com/properties/987,36.268517,136.485821
+Araiya,https://www.hafh.com/properties/988,35.639713,139.739726
+RE SORT,https://www.hafh.com/properties/989,33.164978,129.720216
+屈斜路プリンスホテル,https://www.hafh.com/properties/992,43.585762,144.27446
+コンフォートホテル新山口,https://www.hafh.com/properties/993,34.094944,131.395564
+コンフォートホテル小倉,https://www.hafh.com/properties/994,33.888639,130.88018
+コンフォートホテル黒崎,https://www.hafh.com/properties/995,33.866119,130.762675
+コンフォートホテル博多,https://www.hafh.com/properties/996,33.590609,130.418368
+コンフォートイン福岡天神,https://www.hafh.com/properties/997,33.589464,130.403559
+コンフォートホテル熊本新市街,https://www.hafh.com/properties/999,32.799591,130.706271
+コンフォートホテル宮崎,https://www.hafh.com/properties/1000,31.915501,131.421557
+コンフォートホテル那覇県庁前,https://www.hafh.com/properties/1001,26.213451,127.677646
+コンフォートイン那覇泊港,https://www.hafh.com/properties/1003,26.221359,127.68285
+コンフォートイン近江八幡,https://www.hafh.com/properties/1005,35.121665,136.101173
+コンフォートホテル名古屋新幹線口,https://www.hafh.com/properties/1008,35.172201,136.87741
+コンフォートホテル鈴鹿,https://www.hafh.com/properties/1009,34.836304,136.588617
+コンフォートホテル名古屋名駅南,https://www.hafh.com/properties/1010,35.16709,136.888298
+コンフォートホテル中部国際空港,https://www.hafh.com/properties/1013,34.860076,136.818504
+コンフォートホテル豊川,https://www.hafh.com/properties/1014,34.826769,137.370239
+コンフォートホテル豊橋,https://www.hafh.com/properties/1015,34.765186,137.383079
+コンフォートホテル浜松,https://www.hafh.com/properties/1016,34.702559,137.735951
+六本木ホテルS,https://www.hafh.com/properties/1017,35.660426,139.724636
+コンフォートホテル刈谷,https://www.hafh.com/properties/1018,34.991459,137.010866
+コンフォートホテル伊勢,https://www.hafh.com/properties/1019,34.489792,136.709622
+コンフォートホテル岐阜,https://www.hafh.com/properties/1020,35.411175,136.755465
+コンフォートホテル名古屋伏見,https://www.hafh.com/properties/1022,35.168933,136.900691
+SANBE SPACE,https://www.hafh.com/properties/1023,35.098824,132.64708
+ルスツグランドキャビン,https://www.hafh.com/properties/1024,42.789426,140.936081
+軽井沢ホテル ロンギング ハウス,https://www.hafh.com/properties/1025,36.345263,138.614845
+メズム東京、オートグラフ コレクション,https://www.hafh.com/properties/1026,35.655961,139.763129
+民芸モダンの宿 雲仙福田屋,https://www.hafh.com/properties/1027,32.737718,130.260523
+ホテル らしく金沢,https://www.hafh.com/properties/1028,36.57321,136.66609
+DOAIVILLAGE,https://www.hafh.com/properties/1029,36.831437,138.967086
+ホテル・ロッジ舞洲,https://www.hafh.com/properties/1033,34.66483,135.390792
+ONSEN RYOKAN 由縁 新宿,https://www.hafh.com/properties/1034,35.693065,139.711135
+ＺＡＯセンタープラザ,https://www.hafh.com/properties/1035,38.165753,140.395901
+HAMACHO HOTEL TOKYO,https://www.hafh.com/properties/1036,35.684603,139.789272
+果実の山 あづま屋,https://www.hafh.com/properties/1038,38.157183,140.27299
+湯郷グランドホテル,https://www.hafh.com/properties/1040,34.992885,134.136365
+コンフォートホテル京都東寺,https://www.hafh.com/properties/1041,34.979019,135.752874
+ホテルアベスト高知,https://www.hafh.com/properties/1042,33.558046,133.543103
+Harbor house Bongsan Village,https://www.hafh.com/properties/1043,35.093432,129.051167
+ホテルSUI赤坂 by ABEST,https://www.hafh.com/properties/1044,35.670338,139.737911
+ゆる宿Voketto,https://www.hafh.com/properties/1046,35.088955,138.116261
+THE PAX HOSTEL,https://www.hafh.com/properties/1047,34.652663,135.505428
+雲の上のホテル別館 マルシェ・ユスハラ,https://www.hafh.com/properties/1048,33.393834,132.926894
+Hotel Vintage 神楽坂,https://www.hafh.com/properties/1049,35.705776,139.731158
+SEVEN GARDEN,https://www.hafh.com/properties/1050,35.71211,139.797421
+ヴィラ汐音,https://www.hafh.com/properties/1051,34.445794,134.330205
+TOKITOKI,https://www.hafh.com/properties/1056,32.870189,130.268413
+アウェイ沖縄古宇利島リゾート,https://www.hafh.com/properties/1057,26.699223,128.020572
+たびの民泊 「道」仙台,https://www.hafh.com/properties/1058,38.266187,140.879379
+割烹旅館 観月荘,https://www.hafh.com/properties/1059,32.871034,130.309316
+庭のホテル 東京,https://www.hafh.com/properties/1060,35.700639,139.756689
+ゲストハウス蔵,https://www.hafh.com/properties/1061,36.653727,138.31404
+芝パークホテル,https://www.hafh.com/properties/1062,35.65881,139.752063
+パークホテル東京,https://www.hafh.com/properties/1063,35.663052,139.759446
+ホテルタビノス京都,https://www.hafh.com/properties/1064,34.996194,135.766367
+アワーズイン阪急,https://www.hafh.com/properties/1065,35.605586,139.734274
+Lazy Inn.,https://www.hafh.com/properties/1066,34.485216,134.853237
+STARRY Residence Suite,https://www.hafh.com/properties/1073,36.703046,137.836293
+長崎ブルースカイホテル,https://www.hafh.com/properties/1079,32.753463,129.853597
+汗見川ふれあいの郷清流館,https://www.hafh.com/properties/1089,33.786805,133.553023
+さめうら荘レイクサイドホテル,https://www.hafh.com/properties/1101,33.750426,133.543141
